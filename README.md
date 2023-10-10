@@ -21,10 +21,12 @@
 <h3>✨ GitHub Stats ✨</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=chogoal&show_icons=true">
 
+<!--
 <br><br>
 
 <h3>🏆 BOJ Rank 🏆</h3>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goal961)](https://solved.ac/goal961)
+-->
 
 <br>
 
